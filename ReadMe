@@ -1,0 +1,7 @@
+to get started: clone project
+run composer install
+run npm install
+run php artisan generate:key
+create database and specify that in .env file along with username and password
+run php artisan migrate.. n u r good to go..
+
